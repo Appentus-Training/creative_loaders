@@ -1,5 +1,7 @@
 # LoaderChip
 
+## Developed by @abhinav, For any queries you can message him on slack or email at abhinav@appentus.me
+
 A simple library to show a loader around the edges of a materail chip 
 
 <b> Usage </b>
