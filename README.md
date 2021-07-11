@@ -141,7 +141,7 @@ Loader with `overshoot` `loaderStyle`
     </androidx.constraintlayout.widget.ConstraintLayout>
     
     
- __Version 1.0.5__   ( 7-july-2021) 
+ __Version 1.0.5__   ( 10-july-2021) 
 
 give optional text whilte loading , attributes `loadingText` , `loadingTextColor` are added
         
