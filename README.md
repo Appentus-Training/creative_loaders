@@ -18,7 +18,7 @@ A simple library to show a loader around the edges of a materail chip
 
 <i> in module build.gradle </i>
 
-               implementation 'com.github.AbhinavChauhan97:LoaderChip:1.0.4'
+               implementation 'com.github.AbhinavChauhan97:LoaderChip:1.0.5'
 <i> Simply put in your layout file </i>
  
                   
@@ -139,5 +139,10 @@ Loader with `overshoot` `loaderStyle`
              app:layout_constraintTop_toTopOf="parent" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
+    
+    
+<h4> Version 1.0.5 </h4> (7july 2021) 
+
+give optional text whilte loading , attributes `loadingText` , `loadingTextColor` are added
         
             
