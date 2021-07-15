@@ -18,7 +18,7 @@ A simple library to show a loader around the edges of a materail chip
 
 <i> in module build.gradle </i>
 
-               implementation 'com.github.AbhinavChauhan97:LoaderChip:1.0.5'
+               implementation 'com.github.AbhinavChauhan97:LoaderChip:1.0.6'
 <i> Simply put in your layout file </i>
  
                   
@@ -144,5 +144,10 @@ Loader with `overshoot` `loaderStyle`
  __Version 1.0.5__   ( 10-july-2021) 
 
 give optional text whilte loading , attributes `loadingText` , `loadingTextColor` are added
-        
+ 
+ 
+__Contributions__ 
+
+thanks to cheticamp from stackoverflow for fixing [this](https://stackoverflow.com/questions/68327346/cannot-draw-on-chip-when-text-alignment-is-center/68371546?noredirect=1#comment120853331_68371546) major bug.
+	
             
